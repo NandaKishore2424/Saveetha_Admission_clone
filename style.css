@@ -6,8 +6,9 @@
 
 body {
     font-family: Arial, sans-serif;
+    background: url('background.jpg') center/cover no-repeat fixed;
     height: 100vh;
-    overflow: visible;
+    overflow: hidden;
     position: relative;
 }
 
